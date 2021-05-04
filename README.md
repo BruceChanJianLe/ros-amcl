@@ -13,3 +13,4 @@ You may wish to drive your robot around for the particles to coverge to the corr
 
 ## Reference
 - AMCL Demo [link](https://www.youtube.com/watch?v=tqWnQUIoVUQ)
+- AMCL Notes [link](https://husarion.com/tutorials/ros-tutorials/9-map-navigation/)
